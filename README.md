@@ -42,4 +42,3 @@ Any pipelines that or otherwise relevant Bash/ Python scripts that might be usef
 
 For now feel free to push to main
 
-> **Goal:** To turn fragmented structural biology tools into seamless, reproducible workflows.
