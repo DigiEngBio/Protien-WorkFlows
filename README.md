@@ -39,7 +39,7 @@ For now feel free to push to main
 Any pipelines that or otherwise relevant Bash/ Python scripts that might be useful 
 - Add it to the `/scripts` directory in a directory with your name
 - Include a brief comment at the top of the file explaining what it does and who wrote it.
-(https://github.com/digiengbi). 
+
 For now feel free to push to main
 
 > **Goal:** To turn fragmented structural biology tools into seamless, reproducible workflows.
