@@ -32,12 +32,12 @@ Please browse existing issues before creating a new one. If someone has already 
 We are also accepting existing assets that might help the project. If you have useful snippets, please contribute them to the following areas:
 
 ### 🐳 Containers & Environments
-If you have working **Dockerfiles**, **Apptainer/Singularity** definitions, or **Conda** `.yaml` files that successfully run protein tools (especially on HPC clusters like Isambard), please add them to the `/containers` directory.
+If you have working **Dockerfiles**, **Apptainer/Singularity** definitions, or **Conda** `.yaml` files that successfully run protein tools (especially on HPC clusters like Isambard), please add them to the `/containers` directory in a directory with your name
 For now feel free to push to main
 
 ### 📜 Useful Scripts
 Any pipelines that or otherwise relevant Bash/ Python scripts that might be useful 
-- Add it to the `/scripts` directory.
+- Add it to the `/scripts` directory in a directory with your name
 - Include a brief comment at the top of the file explaining what it does and who wrote it.
 (https://github.com/digiengbi). 
 For now feel free to push to main
